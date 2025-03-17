@@ -13,17 +13,11 @@
 
 ## My Coding Progress 🚀
 
+### Python: ██████░░░░ 60% 🐍
 
-Here's my current coding progress:
+### C++: ████████░░ 80% ⚙⚙
 
-Python:
-[![Python Progress](https://progress-bar.dev/60/?scale=100&title=Python&width=500&color=green)](https://progress-bar.dev/60/?scale=100&title=Python&width=500&color=green) 🐍
-
-C++:
-[![C++ Progress](https://progress-bar.dev/80/?scale=100&title=C++&width=500&color=blue)](https://progress-bar.dev/80/?scale=100&title=C++&width=500&color=blue) ⚙⚙
-
-HTML/CSS:
-[![HTML/CSS Progress](https://progress-bar.dev/90/?scale=100&title=HTML/CSS&width=500&color=orange)](https://progress-bar.dev/90/?scale=100&title=HTML/CSS&width=500&color=orange) 🌐
+### HTML/CSS: █████████░ 90% 🌐
 
 <!--
 **RobelAmare/RobelAmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
