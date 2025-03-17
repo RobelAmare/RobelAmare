@@ -1,4 +1,18 @@
-## Hi there 👋
+# Robel here 👋👋
+
+---
+
+## 📊 My Language Usage
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAmare&layout=pie&theme=dracula&hide_border=true)](https://github.com/RobelAmare)
+
+---
+
+## 🗓️ My GitHub Contributions
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobelAmare&theme=dracula&hide_border=true)](https://github.com/RobelAmare)
+
+-xks
 
 <!--
 **RobelAmare/RobelAmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
