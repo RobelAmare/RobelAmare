@@ -4,8 +4,7 @@
 
 ## 📊 My Language Usage
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAmare&layout=pie&theme=dracula&hide_border=true)](https://github.com/RobelAmare)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAmare&layout=donut-vertical&theme=dracula&langs_count=8&hide_border=true&animation=true)](https://github.com/RobelAmare)
 ---
 
 ## 🗓️ My GitHub Contributions
