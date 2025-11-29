@@ -37,9 +37,6 @@ I am an engineer obsessed with the frontiers of **Artificial Intelligence**. I b
 
 <hr>
 
-### 📊 Neural Activity (GitHub Stats)
-
-
 
 ### 📊 Neural Activity (GitHub Stats)
 
