@@ -39,21 +39,25 @@ I am an engineer obsessed with the frontiers of **Artificial Intelligence**. I b
 
 ### 📊 Neural Activity (GitHub Stats)
 
+
+
 ### 📊 Neural Activity (GitHub Stats)
 
 <div align="center">
   <br>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RobelAmare&show_icons=true&theme=midnight-blue&hide_border=true&bg_color=0D1117&title_color=33E6F7&icon_color=00BFFF&text_color=ffffff&rank_icon=title" alt="Robel's Github Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RobelAmare&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=33E6F7&icon_color=33E6F7&text_color=ffffff&rank_icon=title" alt="Robel's Github Stats" width="48%" />
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAmare&layout=compact&theme=midnight-blue&hide_border=true&bg_color=0D1117&title_color=33E6F7&text_color=ffffff" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAmare&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=33E6F7&text_color=ffffff" alt="Top Languages" width="48%" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobelAmare&theme=midnight-blue&hide_border=true&background=0D1117&ring=33E6F7&fire=33E6F7&currStreakNum=ffffff" alt="streak stats" />
+  <img src="https://activity-graph.feri.win/RobelAmare.svg?theme=monokai&bg=0D1117&color=ffffff&line=33E6F7&point=33E6F7" alt="Robel Amare's Contribution Graph" />
 </div>
 
 ### 🛠️ The AI Arsenal
