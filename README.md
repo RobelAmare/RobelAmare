@@ -22,7 +22,7 @@
 
 <hr>
 
-### 🧠 About Me / The Algorithm
+### 🧠 About Me 
 
 > *"The goal is to turn data into information, and information into insight."*
 
@@ -38,7 +38,7 @@ I am an engineer obsessed with the frontiers of **Artificial Intelligence**. I b
 <hr>
 
 
-### 📊 Neural Activity (GitHub Stats)
+### 📊 GitHub Stats
 
 <div align="center">
   <br>
@@ -57,7 +57,7 @@ I am an engineer obsessed with the frontiers of **Artificial Intelligence**. I b
   <img src="https://activity-graph.feri.win/RobelAmare.svg?theme=monokai&bg=0D1117&color=ffffff&line=33E6F7&point=33E6F7" alt="Robel Amare's Contribution Graph" />
 </div>
 
-### 🛠️ The AI Arsenal
+### 🛠️ The Tools
 
 <div align="center">
   <br>
