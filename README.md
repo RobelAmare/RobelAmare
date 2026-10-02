@@ -15,7 +15,7 @@
   <a href="mailto:amarerobel2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/robel-amare" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 > *"The goal is to turn data into information, and information into insight."*
 
-I am an engineer obsessed with the frontiers of **Artificial Intelligence**. I build systems that learn, adapt, and solve complex challenges.
+ Obsessed with the frontiers of **Artificial Intelligence**. I build systems that learn, adapt, and solve complex challenges.
 
 <ul>
   <li>🧠 Currently Learning **Deep Learning & Computer Vision**.</li>
